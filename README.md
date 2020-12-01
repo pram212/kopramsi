@@ -1,2 +1,2 @@
-# mono-coop
-rencana membuat aplikasi koperasi
+# mono-rasio
+rencana membuat aplikasi rasio keuangan
